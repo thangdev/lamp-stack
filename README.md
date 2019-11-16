@@ -115,6 +115,4 @@ http://localhost:8080/
 username: root  
 password: tiger
 
-## Redis
 
-It comes with Redis. It runs on default port `6379`.
